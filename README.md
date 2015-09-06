@@ -1,0 +1,2 @@
+# HomeworkJAVALoopsMethodsClasses
+JAVA Basics homework
